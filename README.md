@@ -14,3 +14,4 @@
 11. Operation Blackout 2025: Phantom Check - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/935
 12. CrownJewel-1 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/751
 13. MangoBleed - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1105
+14. RomCom - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/988
