@@ -17,3 +17,4 @@
 14. RomCom - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/988
 15. Operation Blackout 2025: Smoke & Mirrors - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/937
 16. SmartyPants - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/864
+17. Remote_Access_Regret - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1728
