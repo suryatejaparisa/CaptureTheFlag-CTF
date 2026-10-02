@@ -16,5 +16,6 @@
 13. MangoBleed - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1105
 14. RomCom - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/988
 15. Operation Blackout 2025: Smoke & Mirrors - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/937
-16. SmartyPants - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/864
-17. Remote_Access_Regret - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1728
+16. Learn_Sigma - *Detection Engineering* - https://labs.hackthebox.com/achievement/sherlock/3497415/1767
+17. SmartyPants - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/864
+18. Remote_Access_Regret - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1728
