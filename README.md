@@ -19,3 +19,4 @@
 16. SmartyPants - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/864
 17. Remote_Access_Regret - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1728
 18. Learn_Sigma - *Detection Engineering* - https://labs.hackthebox.com/achievement/sherlock/3497415/1767
+19. Bumblebee - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/554
