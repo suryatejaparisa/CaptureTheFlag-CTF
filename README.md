@@ -21,3 +21,4 @@
 18. Learn_Sigma - *Detection Engineering* - https://labs.hackthebox.com/achievement/sherlock/3497415/1767
 19. Bumblebee - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/554
 20. LogJammer - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/557
+21. Pikaptcha - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/774
