@@ -22,3 +22,4 @@
 19. Bumblebee - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/554
 20. LogJammer - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/557
 21. Pikaptcha - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/774
+22. NeuroSync-D -*DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/879
