@@ -25,3 +25,4 @@
 22. NeuroSync-D -*DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/879
 23. AoTR 2: Operation Winter Blackout - *Threat Intelligence* - https://labs.hackthebox.com/achievement/sherlock/3497415/1093
 24. Operation Blackout 2025: Ghost Thread - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/936
+25. OpTinselTrace-1 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/577
