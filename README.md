@@ -26,3 +26,4 @@
 23. AoTR 2: Operation Winter Blackout - *Threat Intelligence* - https://labs.hackthebox.com/achievement/sherlock/3497415/1093
 24. Operation Blackout 2025: Ghost Thread - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/936
 25. OpTinselTrace-1 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/577
+26. Holmes 2025 3: The Enduring Echo - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1072
