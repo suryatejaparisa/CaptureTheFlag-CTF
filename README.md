@@ -28,3 +28,4 @@
 25. OpTinselTrace-1 - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/577
 26. Holmes 2025 3: The Enduring Echo - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1072
 27. AoTR 4: A Drone in the Snow - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1099
+28. TeamPCP - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1686
