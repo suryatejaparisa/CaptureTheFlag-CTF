@@ -31,3 +31,4 @@
 28. TeamPCP - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1686
 29. Upstyle_Backdoor - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1623
 30. VoIP - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1626
+31. Malicious_Doc - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1605
