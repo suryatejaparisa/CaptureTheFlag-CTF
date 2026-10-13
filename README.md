@@ -33,3 +33,4 @@
 30. VoIP - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1626
 31. Malicious_Doc - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1605
 32. Presentation_As_a_Malware - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1671
+33. Remote_Working - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1731
