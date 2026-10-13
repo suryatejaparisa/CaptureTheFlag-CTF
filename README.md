@@ -35,3 +35,4 @@
 32. Presentation_As_a_Malware - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1671
 33. Remote_Working - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1731
 34. Kernel_Exploit - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1602
+35.  Compromised_Network_Printer - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1758
