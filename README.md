@@ -37,3 +37,4 @@
 34. Kernel_Exploit - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1602
 35.  Compromised_Network_Printer - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1758
 36.  Bash_Script - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1716
+37.  Obfuscated_JavaScript - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1779
