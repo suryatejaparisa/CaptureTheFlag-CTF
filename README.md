@@ -38,3 +38,4 @@
 35.  Compromised_Network_Printer - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1758
 36.  Bash_Script - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1716
 37.  Obfuscated_JavaScript - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1779
+38.  Android_Infostealer - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1638
