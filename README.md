@@ -40,3 +40,4 @@
 37.  Obfuscated_JavaScript - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1779
 38.  Android_Infostealer - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1638
 39.  Linux_Forensics - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1665
+40.  Log_Analysis_With_Sysmon - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1770
