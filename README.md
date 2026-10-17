@@ -42,3 +42,4 @@
 39.  Linux_Forensics - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1665
 40.  Log_Analysis_With_Sysmon - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1770
 41.  LockBit - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1722
+42.  PowerShell_Keylogger - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1833
