@@ -43,3 +43,4 @@
 40.  Log_Analysis_With_Sysmon - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1770
 41.  LockBit - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1722
 42.  PowerShell_Keylogger - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1833
+43.  Disclose_The_Agent - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1806
