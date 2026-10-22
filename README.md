@@ -45,3 +45,4 @@
 42.  PowerShell_Keylogger - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1833
 43.  Disclose_The_Agent - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1806
 44.  Batch_Downloader - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1809
+45.  YARA_Rule - *Detection Engineering* - https://labs.hackthebox.com/achievement/sherlock/3497415/1866
