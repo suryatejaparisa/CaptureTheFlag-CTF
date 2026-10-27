@@ -50,3 +50,4 @@
 47.  NTFS_Forensics - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1884
 48.  Golden_Ticket - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1875
 49.  Harvest Ransomware - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1914
+50.  PCAP Analysis - *SOC* - https://labs.hackthebox.com/achievement/sherlock/3497415/1890
