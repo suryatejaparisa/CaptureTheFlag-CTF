@@ -52,3 +52,4 @@
 49.  Harvest Ransomware - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1914
 50.  PCAP Analysis - *SOC* - https://labs.hackthebox.com/achievement/sherlock/3497415/1890
 51.  Shellshock Attack - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1863
+52.  PowerShell_Script - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1896
