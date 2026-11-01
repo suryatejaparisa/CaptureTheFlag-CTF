@@ -55,3 +55,4 @@
 52.  PowerShell_Script - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1896
 53.  Malicious_AutoIT - *Malware Analysis* - https://labs.hackthebox.com/achievement/sherlock/3497415/1824
 54.  dOOMs Day - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1935
+55.  RouteCause - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1932
