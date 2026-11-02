@@ -57,6 +57,3 @@
 54.  dOOMs Day - *DFIR* - https://labs.hackthebox.com/achievement/sherlock/3497415/1935
 
 
-## Challenges Solved
-**Challenge Name** - ***Category*** - **<ins>Certificate Link</ins>**
-1. Flag Command - Web - https://labs.hackthebox.com/achievement/challenge/3497415/646
