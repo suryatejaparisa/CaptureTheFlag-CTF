@@ -59,6 +59,7 @@
 ## Challenges Solved
 **Challenge Name** - ***Category*** - **<ins>Certificate Link</ins>**
 1. Flag Command - Web - https://labs.hackthebox.com/achievement/challenge/3497415/646
+2. ReactOOPS - Web - https://labs.hackthebox.com/achievement/challenge/3497415/1081
 
 
 
